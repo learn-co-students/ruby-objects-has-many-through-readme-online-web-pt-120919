@@ -1,4 +1,4 @@
-# Ruby Object Relations: Has-Many-Through
+or # Ruby Object Relations: Has-Many-Through
 
 ## Objectives
 
